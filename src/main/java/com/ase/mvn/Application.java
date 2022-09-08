@@ -1,4 +1,4 @@
-package example.spring.bootapp;
+package com.ase.mvn;
 
 import org.springframework.boot.SpringApplication;
 import java.util.Arrays;

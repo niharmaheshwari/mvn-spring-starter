@@ -1,4 +1,4 @@
-package example.spring.bootapp.controller;
+package com.ase.mvn.controller;
 
 import org.hamcrest.core.StringContains;
 import org.junit.Before;

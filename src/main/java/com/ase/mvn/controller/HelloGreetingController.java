@@ -1,4 +1,4 @@
-package example.spring.bootapp.controller;
+package com.ase.mvn.controller;
 
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.RequestMapping;
